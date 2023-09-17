@@ -1,0 +1,9 @@
+<Last-Name> <First-Name> # <-- fill it in
+
+# format: <tid> <line> <action> <location> <value>
+# e.g. thread 0 entering critical section is shown below
+# todo: write the actual solution below
+
+0 3 rd label[1] 0
+0 4 wr label[0] 1
+0 7 rd label[1] 0
